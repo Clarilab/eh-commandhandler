@@ -1,0 +1,4 @@
+github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
+github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/looplab/eventhorizon v0.16.0 h1:p7YEdBGvNloZU39lnANqv4A4hUkNAtY8PTyJJW2PYMA=
+github.com/looplab/eventhorizon v0.16.0/go.mod h1:ym7NXMZtXypXMQgEavLerP3LfESP+WKZplFvSXxcvMc=
