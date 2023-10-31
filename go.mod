@@ -1,4 +1,4 @@
-module ehcommandhandler
+module github.com/Clarilab/eh-commandhandler
 
 go 1.21
 
